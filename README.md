@@ -4,7 +4,8 @@ I'm an AI/ML engineer and a **2026 graduate of IIT Guwahati**, with a B.Tech. in
 
 My interests include machine learning, generative AI, large language models, and retrieval-augmented generation (RAG). I enjoy exploring ideas and turning complex problems into useful, reliable software.
 
-I'm currently an **AI/ML Intern at Flagestrator**, working on document understanding, RAG, and real-time speech applications.
+I'm currently an **AI/ML Intern at Flagestrator**, working on OCR, RAG, and real-time speech applications.
+
 
 I'm looking for opportunities in **AI/ML Engineering, Applied AI, Generative AI, and Forward Deployed Engineering**. Always happy to connect and collaborate.
 
